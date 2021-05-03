@@ -72,11 +72,7 @@ public static void main(String[] args)
 {
   int[] testing = {10,300,05};
   Kargo.converter(testing);
-  System.out.println("  ");
-  System.out.println("second test");
-  int[] tester = {11,13,434,69,79,05};
 
-  Kargo.converter(tester);
 
 }
 
