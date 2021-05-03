@@ -68,12 +68,4 @@ public static void converter(int test[])
   }
 }
 
-public static void main(String[] args)
-{
-  int[] testing = {10,300,05};
-  Kargo.converter(testing);
-
-
-}
-
 }
