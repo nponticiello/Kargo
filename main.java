@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class main
 {
 
-public static void converter(int test[])
+public void converter(int test[])
 {
   String[] converted = new String[test.length];
 
